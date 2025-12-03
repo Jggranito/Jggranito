@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Mobile%20Developer%20%7C%20React%20Native%20%7C%20Front-End&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Header João Gabriel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=27364d&height=250&section=header&text=João%20Gabriel&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Mobile%20Developer%20%7C%20React%20Native%20%7C%20Front-End&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" alt="Header João Gabriel" />
 </div>
 
 <div align="center">
