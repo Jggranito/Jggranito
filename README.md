@@ -7,11 +7,14 @@
   ### 🚀 Sobre Mim
   
   <p align="center">
-    Desenvolvedor focado na criação de aplicações <b>Mobile</b> e <b>Web</b> performáticas.
+    <b>👋 Olá, eu sou o João Gabriel Granito!</b>
+    Sou um <b>Desenvolvedor de Software</b> em transição de carreira, unindo 6 anos de experiência em liderança operacional com uma base sólida em desenvolvimento Full Stack e Mobile.
     <br />
-    Apaixonado por transformar ideias em software funcional e limpo.
+    🚀 <b>Diferencial:</b> Desenvolvi e implantei um software de gestão real, em produção há 1 ano, resolvendo falhas críticas de negócio.
     <br />
-    Atualmente aprimorando aplicações em produção com <b>React Native</b> e <b>TypeScript</b>.
+    💼 <b>Background:</b> Trago maturidade profissional, "visão de dono" e foco em resultados adquiridos em ambientes de alta pressão.
+    <br />
+    🎓 <b>Educação:</b> Cursando Análise e Desenvolvimento de Sistemas (SENAC RJ).
   </p>
   
 </div>
