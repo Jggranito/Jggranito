@@ -12,7 +12,7 @@
     <br />
     🚀 <b>Diferencial:</b> Desenvolvi e implantei um software de gestão real, em produção há 1 ano, resolvendo falhas críticas de negócio.
     <br />
-    💼 <b>Background:</b> Trago maturidade profissional, "visão de dono" e foco em resultados adquiridos em ambientes de alta pressão.
+    💼 <b>Background:</b> Trago maturidade profissional, foco em resultados adquiridos em ambientes de alta pressão.
     <br />
     🎓 <b>Educação:</b> Cursando Análise e Desenvolvimento de Sistemas (SENAC RJ).
   </p>
